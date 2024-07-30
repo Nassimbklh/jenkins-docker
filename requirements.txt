@@ -1,1 +1,1 @@
-Flask
+Flask==1.1.2  # Version actuelle au moment de la rédaction, peut varier
